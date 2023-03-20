@@ -1,4 +1,4 @@
-# state_manager
+# state_mgr
 
 State manager for flutter widgets
 
@@ -83,7 +83,7 @@ class MyStaterPage extends StatelessWidget {
 ```
 
 Let's take out the logic of processing the states of the counter in a separate class CounterState.
-stateBuilder is used to create a counter state management context
+'manager' is used to create a counter state management context
 
 ```dart
 class MyStaterPage extends StatelessWidget {
