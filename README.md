@@ -8,11 +8,8 @@ State manager for flutter widgets
 
 ## About
 
+This plugin allows management of states your objects not using stateful widgets
 State manager allows you to separate the business logic of managing the state of the model and its presentation
-
-## Features
-
-## Getting started
 
 ## Usage
 
@@ -155,5 +152,4 @@ class CounterState extends StateManager {
 ```
 Now we can expand and add more options to control the counter state logic
 
-## Additional information
 

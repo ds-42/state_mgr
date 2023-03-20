@@ -1,5 +1,5 @@
 name: state_mgr
-description: State manager for flutter widgets
+description: This plugin allows management of states your objects not using stateful widgets
 version: 1.0.2
 homepage: https://github.com/ds-42/state_mgr
 
